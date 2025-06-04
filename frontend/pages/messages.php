@@ -79,6 +79,7 @@ if (isset($_SESSION['user_type']) && $_SESSION['user_type'] === 'rehomer') {
             display: flex;
             flex-direction: column;
             gap: 1.2rem;
+            margin-top: 1.5rem;
         }
         .sidebar .menu a,
         .sidebar .menu button {
@@ -559,7 +560,6 @@ if (isset($_SESSION['user_type']) && $_SESSION['user_type'] === 'rehomer') {
             display: flex;
             align-items: center;
             justify-content: space-between;
-            padding: 0rem 2.5rem 0rem 2.5rem; /* Adjusted padding to align logo with main content */
             box-sizing: border-box;
             width: 100%;
             min-width: 0;
