@@ -1,0 +1,354 @@
+[31-May-2025 15:24:40 Europe/Berlin] PHP Error: [2] Trying to access array offset on value of type int in C:\xampp\htdocs\TAILTOTALE\save_pet.php on line 60
+[31-May-2025 15:25:40 Europe/Berlin] PHP Error: [2] Trying to access array offset on value of type int in C:\xampp\htdocs\TAILTOTALE\save_pet.php on line 60
+[31-May-2025 15:26:34 Europe/Berlin] PHP Error: [2] Trying to access array offset on value of type int in C:\xampp\htdocs\TAILTOTALE\save_pet.php on line 60
+[31-May-2025 15:32:22 Europe/Berlin] PHP Error: [2] Trying to access array offset on value of type int in C:\xampp\htdocs\TAILTOTALE\save_pet.php on line 60
+[31-May-2025 15:41:39 Europe/Berlin] PHP Error: [2] Trying to access array offset on value of type int in C:\xampp\htdocs\TAILTOTALE\save_pet.php on line 60
+[31-May-2025 16:36:35 Europe/Berlin] PHP Error: [2] Trying to access array offset on value of type int in C:\xampp\htdocs\TAILTOTALE\backend\api\save_pet.php on line 60
+[31-May-2025 16:55:41 Europe/Berlin] File upload initiated for: e92e184d-9c73-4b85-b1aa-ce8bdd82ccb5.jpg
+[31-May-2025 16:55:41 Europe/Berlin] File type validated: image/jpeg
+[31-May-2025 16:55:41 Europe/Berlin] Destination path: C:\xampp\htdocs\TAILTOTALE\backend\api/../../frontend/assets/images/aac2f99f8be7e546e5a44bfef8d417f2.jpg
+[31-May-2025 16:55:41 Europe/Berlin] Upload directory created: C:\xampp\htdocs\TAILTOTALE\backend\api/../../frontend/assets/images/
+[31-May-2025 16:55:41 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\TAILTOTALE\backend\api/../../frontend/assets/images/aac2f99f8be7e546e5a44bfef8d417f2.jpg
+[31-May-2025 16:55:41 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/aac2f99f8be7e546e5a44bfef8d417f2.jpg
+[31-May-2025 16:57:12 Europe/Berlin] File upload initiated for: 494826956_1397929231327233_7103695781852355106_n.jpg
+[31-May-2025 16:57:12 Europe/Berlin] File type validated: image/jpeg
+[31-May-2025 16:57:12 Europe/Berlin] Destination path: C:\xampp\htdocs\TAILTOTALE\backend\api/../../frontend/assets/images/d1b79f4e5ff217d3490dcdc13cc43aa4.jpg
+[31-May-2025 16:57:12 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\TAILTOTALE\backend\api/../../frontend/assets/images/d1b79f4e5ff217d3490dcdc13cc43aa4.jpg
+[31-May-2025 16:57:12 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/d1b79f4e5ff217d3490dcdc13cc43aa4.jpg
+[31-May-2025 17:12:00 Europe/Berlin] File upload initiated for: a-philippine-eagle-in-the-philippine-eagle-center.jpg
+[31-May-2025 17:12:00 Europe/Berlin] Invalid file format for: a-philippine-eagle-in-the-philippine-eagle-center.jpg
+[31-May-2025 17:13:34 Europe/Berlin] File upload initiated for: Noblest_Flyer_Philippine_Eagle.jpg
+[31-May-2025 17:13:34 Europe/Berlin] File type validated: image/jpeg
+[31-May-2025 17:13:34 Europe/Berlin] Destination path: C:\xampp\htdocs\TAILTOTALE\backend\api/../../frontend/assets/images/d5c174797166ab6a27a3efb2e9a2543b.jpg
+[31-May-2025 17:13:34 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\TAILTOTALE\backend\api/../../frontend/assets/images/d5c174797166ab6a27a3efb2e9a2543b.jpg
+[31-May-2025 17:13:34 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/d5c174797166ab6a27a3efb2e9a2543b.jpg
+[01-Jun-2025 03:26:35 Europe/Berlin] File upload initiated for: Noblest_Flyer_Philippine_Eagle.jpg
+[01-Jun-2025 03:26:35 Europe/Berlin] File type validated: image/jpeg
+[01-Jun-2025 03:26:35 Europe/Berlin] Destination path: C:\xampp\htdocs\TAILTOTALE\backend\api/../../frontend/assets/images/dfe7eea69575c1bd9b3648ef72f78f02.jpg
+[01-Jun-2025 03:26:35 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\TAILTOTALE\backend\api/../../frontend/assets/images/dfe7eea69575c1bd9b3648ef72f78f02.jpg
+[01-Jun-2025 03:26:35 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/dfe7eea69575c1bd9b3648ef72f78f02.jpg
+[01-Jun-2025 03:29:17 Europe/Berlin] File upload initiated for: 494826956_1397929231327233_7103695781852355106_n.jpg
+[01-Jun-2025 03:29:17 Europe/Berlin] File type validated: image/jpeg
+[01-Jun-2025 03:29:17 Europe/Berlin] Destination path: C:\xampp\htdocs\TAILTOTALE\backend\api/../../frontend/assets/images/90375c654aa877c1ff9b9fee8c7ea8f4.jpg
+[01-Jun-2025 03:29:17 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\TAILTOTALE\backend\api/../../frontend/assets/images/90375c654aa877c1ff9b9fee8c7ea8f4.jpg
+[01-Jun-2025 03:29:17 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/90375c654aa877c1ff9b9fee8c7ea8f4.jpg
+[01-Jun-2025 03:34:13 Europe/Berlin] File upload initiated for: Noblest_Flyer_Philippine_Eagle.jpg
+[01-Jun-2025 03:34:13 Europe/Berlin] File type validated: image/jpeg
+[01-Jun-2025 03:34:13 Europe/Berlin] Destination path: C:\xampp\htdocs\TAILTOTALE\backend\api/../../frontend/assets/images/8faf7112418f8a387dfc0a44dee9b589.jpg
+[01-Jun-2025 03:34:13 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\TAILTOTALE\backend\api/../../frontend/assets/images/8faf7112418f8a387dfc0a44dee9b589.jpg
+[01-Jun-2025 03:34:13 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/8faf7112418f8a387dfc0a44dee9b589.jpg
+[01-Jun-2025 03:57:28 Europe/Berlin] File upload initiated for: 63881540827293.png
+[01-Jun-2025 03:57:28 Europe/Berlin] File type validated: image/png
+[01-Jun-2025 03:57:28 Europe/Berlin] Destination path: C:\xampp\htdocs\TAILTOTALE\backend\api/../../frontend/assets/images/afcdd1dc1db7bf9baf05d08dedb4ef8e.png
+[01-Jun-2025 03:57:28 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\TAILTOTALE\backend\api/../../frontend/assets/images/afcdd1dc1db7bf9baf05d08dedb4ef8e.png
+[01-Jun-2025 03:57:28 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/afcdd1dc1db7bf9baf05d08dedb4ef8e.png
+[01-Jun-2025 03:59:50 Europe/Berlin] Pet successfully saved, redirecting...
+[01-Jun-2025 04:49:27 Europe/Berlin] File upload initiated for: 476496502_1797675584358708_6378855724697770384_n-removebg-preview.png
+[01-Jun-2025 04:49:27 Europe/Berlin] File type validated: image/png
+[01-Jun-2025 04:49:27 Europe/Berlin] Destination path: C:\xampp\htdocs\TAILTOTALE\backend\api/../../frontend/assets/images/7bba56e4da5207f57c69fe107fda9cf2.png
+[01-Jun-2025 04:49:27 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\TAILTOTALE\backend\api/../../frontend/assets/images/7bba56e4da5207f57c69fe107fda9cf2.png
+[01-Jun-2025 04:49:27 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/7bba56e4da5207f57c69fe107fda9cf2.png
+[01-Jun-2025 04:54:16 Europe/Berlin] File upload initiated for: 476496502_1797675584358708_6378855724697770384_n-removebg-preview.png
+[01-Jun-2025 04:54:16 Europe/Berlin] File type validated: image/png
+[01-Jun-2025 04:54:16 Europe/Berlin] Destination path: C:\xampp\htdocs\TAILTOTALE\backend\api/../../frontend/assets/images/69762c1de3ced8f18487bbe822389b92.png
+[01-Jun-2025 04:54:16 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\TAILTOTALE\backend\api/../../frontend/assets/images/69762c1de3ced8f18487bbe822389b92.png
+[01-Jun-2025 04:54:16 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/69762c1de3ced8f18487bbe822389b92.png
+[01-Jun-2025 05:11:30 Europe/Berlin] File upload initiated for: 367297653_304590352440150_4306443211606313349_n.jpg
+[01-Jun-2025 05:11:30 Europe/Berlin] File type validated: image/jpeg
+[01-Jun-2025 05:11:30 Europe/Berlin] Destination path: C:\xampp\htdocs\TAILTOTALE\backend\api/../../frontend/assets/images/ab510349b668b90effbee5a63dbf4d46.jpg
+[01-Jun-2025 05:11:30 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\TAILTOTALE\backend\api/../../frontend/assets/images/ab510349b668b90effbee5a63dbf4d46.jpg
+[01-Jun-2025 05:11:30 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/ab510349b668b90effbee5a63dbf4d46.jpg
+[01-Jun-2025 08:05:19 Europe/Berlin] File upload initiated for: wp11464927.webp
+[01-Jun-2025 08:05:19 Europe/Berlin] Invalid file format for: wp11464927.webp
+[01-Jun-2025 08:06:09 Europe/Berlin] File upload initiated for: Shitsu.jpg
+[01-Jun-2025 08:06:09 Europe/Berlin] File type validated: image/jpeg
+[01-Jun-2025 08:06:09 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/08ab98a58c92c88f8df0c094541771df.jpg
+[01-Jun-2025 08:06:09 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/08ab98a58c92c88f8df0c094541771df.jpg
+[01-Jun-2025 08:06:09 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/08ab98a58c92c88f8df0c094541771df.jpg
+[01-Jun-2025 08:12:48 Europe/Berlin] File upload initiated for: Shitsu.jpg
+[01-Jun-2025 08:12:48 Europe/Berlin] File type validated: image/jpeg
+[01-Jun-2025 08:12:48 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/f519412c775c5549a38412fad7b0a49f.jpg
+[01-Jun-2025 08:12:48 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/f519412c775c5549a38412fad7b0a49f.jpg
+[01-Jun-2025 08:12:48 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/f519412c775c5549a38412fad7b0a49f.jpg
+[01-Jun-2025 08:14:06 Europe/Berlin] File upload initiated for: Shitsu.jpg
+[01-Jun-2025 08:14:06 Europe/Berlin] File type validated: image/jpeg
+[01-Jun-2025 08:14:06 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/adcb5d469c76bec9f3457fdf278b3c8c.jpg
+[01-Jun-2025 08:14:06 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/adcb5d469c76bec9f3457fdf278b3c8c.jpg
+[01-Jun-2025 08:14:06 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/adcb5d469c76bec9f3457fdf278b3c8c.jpg
+[01-Jun-2025 08:25:11 Europe/Berlin] File upload initiated for: Shitsu.jpg
+[01-Jun-2025 08:25:11 Europe/Berlin] File type validated: image/jpeg
+[01-Jun-2025 08:25:11 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/ce61e6dba64922a098c42a82640c1210.jpg
+[01-Jun-2025 08:25:11 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/ce61e6dba64922a098c42a82640c1210.jpg
+[01-Jun-2025 08:25:11 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/ce61e6dba64922a098c42a82640c1210.jpg
+[01-Jun-2025 08:37:58 Europe/Berlin] File upload initiated for: 76112b27-0634-43c4-966d-f89b36bbb9c1.jpg
+[01-Jun-2025 08:37:58 Europe/Berlin] File type validated: image/jpeg
+[01-Jun-2025 08:37:58 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/345f509cfa1722873b68f3f97bb80094.jpg
+[01-Jun-2025 08:37:58 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/345f509cfa1722873b68f3f97bb80094.jpg
+[01-Jun-2025 08:37:58 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/345f509cfa1722873b68f3f97bb80094.jpg
+[01-Jun-2025 09:40:08 Europe/Berlin] File upload initiated for: Shitsu.jpg
+[01-Jun-2025 09:40:08 Europe/Berlin] File type validated: image/jpeg
+[01-Jun-2025 09:40:08 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/0c64063e198bfb022e78a37c4116d463.jpg
+[01-Jun-2025 09:40:08 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/0c64063e198bfb022e78a37c4116d463.jpg
+[01-Jun-2025 09:40:08 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/0c64063e198bfb022e78a37c4116d463.jpg
+[01-Jun-2025 09:48:52 Europe/Berlin] File upload initiated for: Shitsu.jpg
+[01-Jun-2025 09:48:52 Europe/Berlin] File type validated: image/jpeg
+[01-Jun-2025 09:48:52 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/2cedd26ff6506d9ef60c4d2db3cf8bca.jpg
+[01-Jun-2025 09:48:52 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/2cedd26ff6506d9ef60c4d2db3cf8bca.jpg
+[01-Jun-2025 09:48:52 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/2cedd26ff6506d9ef60c4d2db3cf8bca.jpg
+[01-Jun-2025 10:21:00 Europe/Berlin] File upload initiated for: 76112b27-0634-43c4-966d-f89b36bbb9c1.jpg
+[01-Jun-2025 10:21:00 Europe/Berlin] File type validated: image/jpeg
+[01-Jun-2025 10:21:00 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/bcba9fce29b0ccdc4ef48a2bc31fafe3.jpg
+[01-Jun-2025 10:21:00 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/bcba9fce29b0ccdc4ef48a2bc31fafe3.jpg
+[01-Jun-2025 10:21:00 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/bcba9fce29b0ccdc4ef48a2bc31fafe3.jpg
+[01-Jun-2025 10:21:59 Europe/Berlin] File upload initiated for: Shitsu.jpg
+[01-Jun-2025 10:21:59 Europe/Berlin] File type validated: image/jpeg
+[01-Jun-2025 10:21:59 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/2e271540f75db7e2ea246b2ab6ecae01.jpg
+[01-Jun-2025 10:21:59 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/2e271540f75db7e2ea246b2ab6ecae01.jpg
+[01-Jun-2025 10:21:59 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/2e271540f75db7e2ea246b2ab6ecae01.jpg
+[01-Jun-2025 10:26:35 Europe/Berlin] File upload initiated for: 495269046_686372270883937_690999248719416855_n.png
+[01-Jun-2025 10:26:35 Europe/Berlin] File type validated: image/png
+[01-Jun-2025 10:26:35 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/8bfee36bc8416d9daea55daaadece454.png
+[01-Jun-2025 10:26:35 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/8bfee36bc8416d9daea55daaadece454.png
+[01-Jun-2025 10:26:35 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/8bfee36bc8416d9daea55daaadece454.png
+[02-Jun-2025 07:15:15 Europe/Berlin] File upload initiated for: 76112b27-0634-43c4-966d-f89b36bbb9c1.jpg
+[02-Jun-2025 07:15:15 Europe/Berlin] File type validated: image/jpeg
+[02-Jun-2025 07:15:15 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/ec31dc03a689bc7db5beceb7c5e7807f.jpg
+[02-Jun-2025 07:15:15 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/ec31dc03a689bc7db5beceb7c5e7807f.jpg
+[02-Jun-2025 07:15:15 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/ec31dc03a689bc7db5beceb7c5e7807f.jpg
+[02-Jun-2025 08:21:07 Europe/Berlin] File upload initiated for: image (1).png
+[02-Jun-2025 08:21:07 Europe/Berlin] File type validated: image/png
+[02-Jun-2025 08:21:07 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/e933b58bc301640007bf0f50b2c0e7d9.png
+[02-Jun-2025 08:21:07 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/e933b58bc301640007bf0f50b2c0e7d9.png
+[02-Jun-2025 08:21:07 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/e933b58bc301640007bf0f50b2c0e7d9.png
+[02-Jun-2025 08:49:30 Europe/Berlin] File upload initiated for: pups.jpg
+[02-Jun-2025 08:49:30 Europe/Berlin] File type validated: image/jpeg
+[02-Jun-2025 08:49:30 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/caa4431becfb45de44cbba0c44de5a3e.jpg
+[02-Jun-2025 08:49:30 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/caa4431becfb45de44cbba0c44de5a3e.jpg
+[02-Jun-2025 08:49:30 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/caa4431becfb45de44cbba0c44de5a3e.jpg
+[02-Jun-2025 11:06:35 Europe/Berlin] File upload initiated for: 495269046_686372270883937_690999248719416855_n.png
+[02-Jun-2025 11:06:35 Europe/Berlin] File type validated: image/png
+[02-Jun-2025 11:06:35 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/d0991df5e20b2b289e0e17c879edee48.png
+[02-Jun-2025 11:06:35 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/d0991df5e20b2b289e0e17c879edee48.png
+[02-Jun-2025 11:06:35 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/d0991df5e20b2b289e0e17c879edee48.png
+[02-Jun-2025 13:46:16 Europe/Berlin] File upload initiated for: e4d275d4-e9ae-483b-8fc3-9fe9f827c21e.jpg
+[02-Jun-2025 13:46:16 Europe/Berlin] File type validated: image/jpeg
+[02-Jun-2025 13:46:16 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/5752ce51134472bcd4a1e61ca66aa791.jpg
+[02-Jun-2025 13:46:16 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/5752ce51134472bcd4a1e61ca66aa791.jpg
+[02-Jun-2025 13:46:16 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/5752ce51134472bcd4a1e61ca66aa791.jpg
+[02-Jun-2025 14:59:46 Europe/Berlin] File upload initiated for: Sprite2_CrouchAtk(BLUE-LEFT) (1).png
+[02-Jun-2025 14:59:46 Europe/Berlin] File type validated: image/png
+[02-Jun-2025 14:59:46 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/f25da2689d9035015091f33c9484eea4.png
+[02-Jun-2025 14:59:46 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/f25da2689d9035015091f33c9484eea4.png
+[02-Jun-2025 14:59:46 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/f25da2689d9035015091f33c9484eea4.png
+[02-Jun-2025 15:28:54 Europe/Berlin] File upload initiated for: 76112b27-0634-43c4-966d-f89b36bbb9c1.jpg
+[02-Jun-2025 15:28:54 Europe/Berlin] File type validated: image/jpeg
+[02-Jun-2025 15:28:54 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/138e027e050eea791887cb91415645d9.jpg
+[02-Jun-2025 15:28:54 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/138e027e050eea791887cb91415645d9.jpg
+[02-Jun-2025 15:28:54 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/138e027e050eea791887cb91415645d9.jpg
+[02-Jun-2025 16:16:21 Europe/Berlin] File upload initiated for: 7c9153e5-8f4c-4d31-9557-8f5cb4abecf5.jpg
+[02-Jun-2025 16:16:21 Europe/Berlin] File type validated: image/jpeg
+[02-Jun-2025 16:16:21 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/95c1242985f47747bc305d35fc8945c1.jpg
+[02-Jun-2025 16:16:21 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/95c1242985f47747bc305d35fc8945c1.jpg
+[02-Jun-2025 16:16:21 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/95c1242985f47747bc305d35fc8945c1.jpg
+[02-Jun-2025 16:17:14 Europe/Berlin] File upload initiated for: d98b4d37-dab4-4952-914e-a863b4936540.jpg
+[02-Jun-2025 16:17:14 Europe/Berlin] File type validated: image/jpeg
+[02-Jun-2025 16:17:14 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/f59e17eb779fdeb0945c1c2d0526219b.jpg
+[02-Jun-2025 16:17:14 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/f59e17eb779fdeb0945c1c2d0526219b.jpg
+[02-Jun-2025 16:17:14 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/f59e17eb779fdeb0945c1c2d0526219b.jpg
+[02-Jun-2025 16:17:37 Europe/Berlin] File upload initiated for: 495269046_686372270883937_690999248719416855_n.png
+[02-Jun-2025 16:17:37 Europe/Berlin] File type validated: image/png
+[02-Jun-2025 16:17:37 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/c0ddbed039d0059dd51236a898b03251.png
+[02-Jun-2025 16:17:37 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/c0ddbed039d0059dd51236a898b03251.png
+[02-Jun-2025 16:17:37 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/c0ddbed039d0059dd51236a898b03251.png
+[02-Jun-2025 16:18:11 Europe/Berlin] File upload initiated for: Egoist Mode.jpg
+[02-Jun-2025 16:18:11 Europe/Berlin] File type validated: image/jpeg
+[02-Jun-2025 16:18:11 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/2202e6e04b8f9f1c9396e1ea6c78cfc2.jpg
+[02-Jun-2025 16:18:11 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/2202e6e04b8f9f1c9396e1ea6c78cfc2.jpg
+[02-Jun-2025 16:18:11 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/2202e6e04b8f9f1c9396e1ea6c78cfc2.jpg
+[02-Jun-2025 16:18:41 Europe/Berlin] File upload initiated for: 457032753_1408283513176500_5019289899383198283_n.jpg
+[02-Jun-2025 16:18:41 Europe/Berlin] File type validated: image/jpeg
+[02-Jun-2025 16:18:41 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/5c9bb254ba4fab3a4a3c29a31b9aa0da.jpg
+[02-Jun-2025 16:18:41 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/5c9bb254ba4fab3a4a3c29a31b9aa0da.jpg
+[02-Jun-2025 16:18:41 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/5c9bb254ba4fab3a4a3c29a31b9aa0da.jpg
+[02-Jun-2025 16:52:57 Europe/Berlin] File upload initiated for: ChatGPT Image May 10, 2025, 05_24_06 PM.png
+[02-Jun-2025 16:52:57 Europe/Berlin] File type validated: image/png
+[02-Jun-2025 16:52:57 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/deb835091c9e010a92959f66523d16b6.png
+[02-Jun-2025 16:52:57 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/deb835091c9e010a92959f66523d16b6.png
+[02-Jun-2025 16:52:57 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/deb835091c9e010a92959f66523d16b6.png
+[02-Jun-2025 16:53:25 Europe/Berlin] File upload initiated for: 086d7f37-2e18-42b5-b95f-e4db1e312f3a.jpg
+[02-Jun-2025 16:53:25 Europe/Berlin] File type validated: image/jpeg
+[02-Jun-2025 16:53:25 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/54dc73795df42ac00170f988e42d3e71.jpg
+[02-Jun-2025 16:53:25 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/54dc73795df42ac00170f988e42d3e71.jpg
+[02-Jun-2025 16:53:25 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/54dc73795df42ac00170f988e42d3e71.jpg
+[02-Jun-2025 16:57:02 Europe/Berlin] File upload initiated for: Shitsu.jpg
+[02-Jun-2025 16:57:02 Europe/Berlin] File type validated: image/jpeg
+[02-Jun-2025 16:57:02 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/9716a5893a861dc3c68b841bbac44416.jpg
+[02-Jun-2025 16:57:02 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/9716a5893a861dc3c68b841bbac44416.jpg
+[02-Jun-2025 16:57:02 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/9716a5893a861dc3c68b841bbac44416.jpg
+[02-Jun-2025 16:57:14 Europe/Berlin] File upload initiated for: download (6).jpg
+[02-Jun-2025 16:57:14 Europe/Berlin] File type validated: image/jpeg
+[02-Jun-2025 16:57:14 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/f5c6251ecf2ae382324f77670018074b.jpg
+[02-Jun-2025 16:57:14 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/f5c6251ecf2ae382324f77670018074b.jpg
+[02-Jun-2025 16:57:14 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/f5c6251ecf2ae382324f77670018074b.jpg
+[02-Jun-2025 19:52:24 Europe/Berlin] File upload initiated for: 086d7f37-2e18-42b5-b95f-e4db1e312f3a.jpg
+[02-Jun-2025 19:52:24 Europe/Berlin] File type validated: image/jpeg
+[02-Jun-2025 19:52:24 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/6e86fbe483db10f01b770b24d8c7c463.jpg
+[02-Jun-2025 19:52:24 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/6e86fbe483db10f01b770b24d8c7c463.jpg
+[02-Jun-2025 19:52:24 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/6e86fbe483db10f01b770b24d8c7c463.jpg
+[02-Jun-2025 20:02:56 Europe/Berlin] File upload initiated for: 086d7f37-2e18-42b5-b95f-e4db1e312f3a.jpg
+[02-Jun-2025 20:02:56 Europe/Berlin] File type validated: image/jpeg
+[02-Jun-2025 20:02:56 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/0404788562f8da11d32f1aecd3e667b4.jpg
+[02-Jun-2025 20:02:56 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/0404788562f8da11d32f1aecd3e667b4.jpg
+[02-Jun-2025 20:02:56 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/0404788562f8da11d32f1aecd3e667b4.jpg
+[02-Jun-2025 20:07:00 Europe/Berlin] File upload initiated for: Shitsu.jpg
+[02-Jun-2025 20:07:00 Europe/Berlin] File type validated: image/jpeg
+[02-Jun-2025 20:07:00 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/f19e413f2be4ad7b330977d5e359081c.jpg
+[02-Jun-2025 20:07:00 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/f19e413f2be4ad7b330977d5e359081c.jpg
+[02-Jun-2025 20:07:00 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/f19e413f2be4ad7b330977d5e359081c.jpg
+[02-Jun-2025 20:09:38 Europe/Berlin] File upload initiated for: 80067559-28f9-46a9-881a-613a5a5c19ec.jpg
+[02-Jun-2025 20:09:38 Europe/Berlin] File type validated: image/jpeg
+[02-Jun-2025 20:09:38 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/fb8403e0093cfa4412b5702bd86b5b93.jpg
+[02-Jun-2025 20:09:38 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/fb8403e0093cfa4412b5702bd86b5b93.jpg
+[02-Jun-2025 20:09:38 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/fb8403e0093cfa4412b5702bd86b5b93.jpg
+[02-Jun-2025 20:13:30 Europe/Berlin] File upload initiated for: d98b4d37-dab4-4952-914e-a863b4936540.jpg
+[02-Jun-2025 20:13:30 Europe/Berlin] File type validated: image/jpeg
+[02-Jun-2025 20:13:30 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/8f896f83d59450ddb2df6802eef795a1.jpg
+[02-Jun-2025 20:13:30 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/8f896f83d59450ddb2df6802eef795a1.jpg
+[02-Jun-2025 20:13:30 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/8f896f83d59450ddb2df6802eef795a1.jpg
+[02-Jun-2025 20:13:48 Europe/Berlin] File upload initiated for: 80067559-28f9-46a9-881a-613a5a5c19ec.jpg
+[02-Jun-2025 20:13:48 Europe/Berlin] File type validated: image/jpeg
+[02-Jun-2025 20:13:48 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/505ded74258e5a79d4c285dea76b4bea.jpg
+[02-Jun-2025 20:13:48 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/505ded74258e5a79d4c285dea76b4bea.jpg
+[02-Jun-2025 20:13:48 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/505ded74258e5a79d4c285dea76b4bea.jpg
+[02-Jun-2025 20:15:22 Europe/Berlin] File upload initiated for: 086d7f37-2e18-42b5-b95f-e4db1e312f3a.jpg
+[02-Jun-2025 20:15:22 Europe/Berlin] File type validated: image/jpeg
+[02-Jun-2025 20:15:22 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/ca4cd06998931cafc0224da30fd82a0e.jpg
+[02-Jun-2025 20:15:22 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/ca4cd06998931cafc0224da30fd82a0e.jpg
+[02-Jun-2025 20:15:22 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/ca4cd06998931cafc0224da30fd82a0e.jpg
+[02-Jun-2025 20:15:43 Europe/Berlin] File upload initiated for: 7c9153e5-8f4c-4d31-9557-8f5cb4abecf5.jpg
+[02-Jun-2025 20:15:43 Europe/Berlin] File type validated: image/jpeg
+[02-Jun-2025 20:15:43 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/64412340629bec47b5d17a320842060c.jpg
+[02-Jun-2025 20:15:43 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/64412340629bec47b5d17a320842060c.jpg
+[02-Jun-2025 20:15:43 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/64412340629bec47b5d17a320842060c.jpg
+[02-Jun-2025 20:16:24 Europe/Berlin] File upload initiated for: ChatGPT Image May 10, 2025, 05_18_00 PM.png
+[02-Jun-2025 20:16:24 Europe/Berlin] File type validated: image/png
+[02-Jun-2025 20:16:24 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/2d9869d6df57c2053aabe9f5fe0b8f31.png
+[02-Jun-2025 20:16:24 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/2d9869d6df57c2053aabe9f5fe0b8f31.png
+[02-Jun-2025 20:16:24 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/2d9869d6df57c2053aabe9f5fe0b8f31.png
+[02-Jun-2025 20:17:03 Europe/Berlin] File upload initiated for: 1bd68799-ce19-4546-adfc-d34eb42d1f9c.jpg
+[02-Jun-2025 20:17:03 Europe/Berlin] File type validated: image/jpeg
+[02-Jun-2025 20:17:03 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/a2b2eecefe434d773e450ea6c2fe34e4.jpg
+[02-Jun-2025 20:17:03 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/a2b2eecefe434d773e450ea6c2fe34e4.jpg
+[02-Jun-2025 20:17:03 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/a2b2eecefe434d773e450ea6c2fe34e4.jpg
+[02-Jun-2025 20:17:42 Europe/Berlin] File upload initiated for: 7c9153e5-8f4c-4d31-9557-8f5cb4abecf5.jpg
+[02-Jun-2025 20:17:42 Europe/Berlin] File type validated: image/jpeg
+[02-Jun-2025 20:17:42 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/97169b9c1e4669043e406a07987a2a3c.jpg
+[02-Jun-2025 20:17:42 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/97169b9c1e4669043e406a07987a2a3c.jpg
+[02-Jun-2025 20:17:42 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/97169b9c1e4669043e406a07987a2a3c.jpg
+[02-Jun-2025 20:19:53 Europe/Berlin] File upload initiated for: 80067559-28f9-46a9-881a-613a5a5c19ec.jpg
+[02-Jun-2025 20:19:53 Europe/Berlin] File type validated: image/jpeg
+[02-Jun-2025 20:19:53 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/72c063c94c66c2a6a1b9639b209e09f8.jpg
+[02-Jun-2025 20:19:53 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/72c063c94c66c2a6a1b9639b209e09f8.jpg
+[02-Jun-2025 20:19:53 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/72c063c94c66c2a6a1b9639b209e09f8.jpg
+[02-Jun-2025 20:20:13 Europe/Berlin] File upload initiated for: ChatGPT Image May 9, 2025, 11_21_08 PM.png
+[02-Jun-2025 20:20:13 Europe/Berlin] File type validated: image/png
+[02-Jun-2025 20:20:13 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/0df0c89fea56e6d069d0c24e4efc432f.png
+[02-Jun-2025 20:20:13 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/0df0c89fea56e6d069d0c24e4efc432f.png
+[02-Jun-2025 20:20:13 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/0df0c89fea56e6d069d0c24e4efc432f.png
+[02-Jun-2025 20:21:02 Europe/Berlin] File upload initiated for: 462543762_1046699800582016_1252698488754092915_n.jpg
+[02-Jun-2025 20:21:02 Europe/Berlin] File type validated: image/jpeg
+[02-Jun-2025 20:21:02 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/f8bde4ef08eb2853266aee6cc1ea2eec.jpg
+[02-Jun-2025 20:21:02 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/f8bde4ef08eb2853266aee6cc1ea2eec.jpg
+[02-Jun-2025 20:21:02 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/f8bde4ef08eb2853266aee6cc1ea2eec.jpg
+[02-Jun-2025 20:21:43 Europe/Berlin] File upload initiated for: 7c9153e5-8f4c-4d31-9557-8f5cb4abecf5.jpg
+[02-Jun-2025 20:21:43 Europe/Berlin] File type validated: image/jpeg
+[02-Jun-2025 20:21:43 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/3dbc163b08972ed1cfcee11de91ddddf.jpg
+[02-Jun-2025 20:21:43 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/3dbc163b08972ed1cfcee11de91ddddf.jpg
+[02-Jun-2025 20:21:43 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/3dbc163b08972ed1cfcee11de91ddddf.jpg
+[02-Jun-2025 20:22:07 Europe/Berlin] File upload initiated for: ChatGPT Image May 10, 2025, 05_18_00 PM.png
+[02-Jun-2025 20:22:07 Europe/Berlin] File type validated: image/png
+[02-Jun-2025 20:22:07 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/7cc6bbf151199a60142d9c4ac68967d8.png
+[02-Jun-2025 20:22:07 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/7cc6bbf151199a60142d9c4ac68967d8.png
+[02-Jun-2025 20:22:07 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/7cc6bbf151199a60142d9c4ac68967d8.png
+[02-Jun-2025 20:28:42 Europe/Berlin] File upload initiated for: 1bd68799-ce19-4546-adfc-d34eb42d1f9c.jpg
+[02-Jun-2025 20:28:42 Europe/Berlin] File type validated: image/jpeg
+[02-Jun-2025 20:28:42 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/d415bf20c0da5b1eaca7b0a1a1b5a8c8.jpg
+[02-Jun-2025 20:28:42 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/d415bf20c0da5b1eaca7b0a1a1b5a8c8.jpg
+[02-Jun-2025 20:28:42 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/d415bf20c0da5b1eaca7b0a1a1b5a8c8.jpg
+[02-Jun-2025 22:36:35 Europe/Berlin] File upload initiated for: Little Cat Xiao by Tr-Yuki on DeviantArt.jpg
+[02-Jun-2025 22:36:35 Europe/Berlin] File type validated: image/jpeg
+[02-Jun-2025 22:36:35 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/d804b615c78360c758b0788d823a3310.jpg
+[02-Jun-2025 22:36:35 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/d804b615c78360c758b0788d823a3310.jpg
+[02-Jun-2025 22:36:35 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/d804b615c78360c758b0788d823a3310.jpg
+[03-Jun-2025 06:07:38 Europe/Berlin] File upload initiated for: JIN-WOO.jpg
+[03-Jun-2025 06:07:38 Europe/Berlin] File type validated: image/jpeg
+[03-Jun-2025 06:07:38 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/a91081b3bfb66535be69aa4437e9d483.jpg
+[03-Jun-2025 06:07:38 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/a91081b3bfb66535be69aa4437e9d483.jpg
+[03-Jun-2025 06:07:38 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/a91081b3bfb66535be69aa4437e9d483.jpg
+[03-Jun-2025 16:46:18 Europe/Berlin] File upload initiated for: image_2025-06-03_224617878.png
+[03-Jun-2025 16:46:18 Europe/Berlin] File type validated: image/png
+[03-Jun-2025 16:46:18 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/1cbe1658b1ae03cb5d50c5714dee4e28.png
+[03-Jun-2025 16:46:18 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/1cbe1658b1ae03cb5d50c5714dee4e28.png
+[03-Jun-2025 16:46:18 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/1cbe1658b1ae03cb5d50c5714dee4e28.png
+[03-Jun-2025 17:15:10 Europe/Berlin] File upload initiated for: apexpredator.webp
+[03-Jun-2025 17:15:10 Europe/Berlin] Invalid file format for: apexpredator.webp
+[03-Jun-2025 17:15:31 Europe/Berlin] File upload initiated for: Screenshot (10).png
+[03-Jun-2025 17:15:31 Europe/Berlin] File type validated: image/png
+[03-Jun-2025 17:15:31 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/7ac53005fa722934d4f4c365f3c493f7.png
+[03-Jun-2025 17:15:31 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/7ac53005fa722934d4f4c365f3c493f7.png
+[03-Jun-2025 17:15:31 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/7ac53005fa722934d4f4c365f3c493f7.png
+[03-Jun-2025 17:47:30 Europe/Berlin] File upload initiated for: image_2025-06-03_234729668.png
+[03-Jun-2025 17:47:30 Europe/Berlin] File type validated: image/png
+[03-Jun-2025 17:47:30 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/4ac933725618c697e49eec3359fe620e.png
+[03-Jun-2025 17:47:30 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/4ac933725618c697e49eec3359fe620e.png
+[03-Jun-2025 17:47:30 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/4ac933725618c697e49eec3359fe620e.png
+[03-Jun-2025 18:13:22 Europe/Berlin] File upload initiated for: f0ef1a26-aade-4f14-8379-9b0d220879df.jpg
+[03-Jun-2025 18:13:22 Europe/Berlin] File type validated: image/jpeg
+[03-Jun-2025 18:13:22 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/80dd4ce3f48a87cba699df4572177687.jpg
+[03-Jun-2025 18:13:22 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/80dd4ce3f48a87cba699df4572177687.jpg
+[03-Jun-2025 18:13:22 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/80dd4ce3f48a87cba699df4572177687.jpg
+[03-Jun-2025 18:13:36 Europe/Berlin] File upload initiated for: download.png
+[03-Jun-2025 18:13:36 Europe/Berlin] File type validated: image/png
+[03-Jun-2025 18:13:36 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/072bc859e550b3262d59e74b3fa67a63.png
+[03-Jun-2025 18:13:36 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/072bc859e550b3262d59e74b3fa67a63.png
+[03-Jun-2025 18:13:36 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/072bc859e550b3262d59e74b3fa67a63.png
+[03-Jun-2025 18:25:16 Europe/Berlin] File upload initiated for: Screenshot 2025-01-24 195409.png
+[03-Jun-2025 18:25:16 Europe/Berlin] File type validated: image/png
+[03-Jun-2025 18:25:16 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/dca32fe8df1ee7e162f93c19e9a6992a.png
+[03-Jun-2025 18:25:16 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/dca32fe8df1ee7e162f93c19e9a6992a.png
+[03-Jun-2025 18:25:16 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/dca32fe8df1ee7e162f93c19e9a6992a.png
+[03-Jun-2025 18:25:29 Europe/Berlin] File upload initiated for: Screenshot (10).png
+[03-Jun-2025 18:25:29 Europe/Berlin] File type validated: image/png
+[03-Jun-2025 18:25:29 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/87ee9e7ddf24f4b94e6dad34221bdfc2.png
+[03-Jun-2025 18:25:29 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/87ee9e7ddf24f4b94e6dad34221bdfc2.png
+[03-Jun-2025 18:25:29 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/87ee9e7ddf24f4b94e6dad34221bdfc2.png
+[03-Jun-2025 18:25:36 Europe/Berlin] File upload initiated for: Screenshot 2025-03-05 224024.png
+[03-Jun-2025 18:25:36 Europe/Berlin] File type validated: image/png
+[03-Jun-2025 18:25:36 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/487b2d9c8a9b5426427c9bc102cd3845.png
+[03-Jun-2025 18:25:36 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/487b2d9c8a9b5426427c9bc102cd3845.png
+[03-Jun-2025 18:25:36 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/487b2d9c8a9b5426427c9bc102cd3845.png
+[03-Jun-2025 18:26:18 Europe/Berlin] File upload initiated for: Screenshot 2025-03-14 224753.png
+[03-Jun-2025 18:26:18 Europe/Berlin] File type validated: image/png
+[03-Jun-2025 18:26:18 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/9eaed90a270fcfa2d7f264c1dd9cb0b2.png
+[03-Jun-2025 18:26:18 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/9eaed90a270fcfa2d7f264c1dd9cb0b2.png
+[03-Jun-2025 18:26:18 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/9eaed90a270fcfa2d7f264c1dd9cb0b2.png
+[03-Jun-2025 18:26:57 Europe/Berlin] File upload initiated for: Screenshot 2025-03-01 174956.png
+[03-Jun-2025 18:26:57 Europe/Berlin] File type validated: image/png
+[03-Jun-2025 18:26:57 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/0a6a4cfd8c167aa9dcab46e6075344df.png
+[03-Jun-2025 18:26:57 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/0a6a4cfd8c167aa9dcab46e6075344df.png
+[03-Jun-2025 18:26:57 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/0a6a4cfd8c167aa9dcab46e6075344df.png
+[04-Jun-2025 08:05:34 Europe/Berlin] File upload initiated for: download.png
+[04-Jun-2025 08:05:34 Europe/Berlin] File type validated: image/png
+[04-Jun-2025 08:05:34 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/9f5de90fa668335b3f8627f3b1ca6579.png
+[04-Jun-2025 08:05:34 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/9f5de90fa668335b3f8627f3b1ca6579.png
+[04-Jun-2025 08:05:34 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/9f5de90fa668335b3f8627f3b1ca6579.png
+[04-Jun-2025 11:08:53 Europe/Berlin] File upload initiated for: Screenshot 2025-03-16 174757.png
+[04-Jun-2025 11:08:53 Europe/Berlin] File type validated: image/png
+[04-Jun-2025 11:08:53 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/2e2472c3684913350cf462ccfdf0681a.png
+[04-Jun-2025 11:08:53 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/2e2472c3684913350cf462ccfdf0681a.png
+[04-Jun-2025 11:08:53 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/2e2472c3684913350cf462ccfdf0681a.png
+[04-Jun-2025 12:30:36 Europe/Berlin] File upload initiated for: f0ef1a26-aade-4f14-8379-9b0d220879df.jpg
+[04-Jun-2025 12:30:36 Europe/Berlin] File type validated: image/jpeg
+[04-Jun-2025 12:30:36 Europe/Berlin] Destination path: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/c5eb734994d83c43f43375fa741f4f63.jpg
+[04-Jun-2025 12:30:36 Europe/Berlin] File successfully moved to: C:\xampp\htdocs\tailtotale\backend\api/../../frontend/assets/images/c5eb734994d83c43f43375fa741f4f63.jpg
+[04-Jun-2025 12:30:36 Europe/Berlin] Primary image path for DB: /TAILTOTALE/frontend/assets/images/c5eb734994d83c43f43375fa741f4f63.jpg

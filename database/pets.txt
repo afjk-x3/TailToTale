@@ -1,0 +1,16 @@
+
+CREATE TABLE `pets` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `user_id` int(11) DEFAULT NULL,
+  `name` varchar(255) NOT NULL,
+  `type` varchar(50) NOT NULL,
+  `breed` varchar(255) DEFAULT NULL,
+  `age` varchar(50) DEFAULT NULL,
+  `gender` varchar(10) DEFAULT NULL,
+  `vaccination_status` varchar(50) DEFAULT NULL,
+  `spay_neuter_status` varchar(50) DEFAULT NULL,
+  `reason` text DEFAULT NULL,
+  `primary_image` varchar(255) DEFAULT NULL,
+  `created_at` timestamp NOT NULL DEFAULT current_timestamp(),
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=16 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci	
