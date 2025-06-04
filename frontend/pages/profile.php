@@ -1123,7 +1123,7 @@ if ($recent_rejection) {
             flex-direction: column;
             justify-content: center;
             align-items: center;
-            width: 40px;
+            width: 70px;
             height: 40px;
             background: transparent;
             border: none;
