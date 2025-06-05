@@ -40,7 +40,7 @@ if ($stmt->num_rows > 0) {
 }
 $stmt->close();
 
-$default_profile_picture = '/TAILTOTALE/frontend/assets/images/default.png';
+$default_profile_picture = '/TAILTOTALE/frontend/assets/images/profile_pics/default.png';
 
 // Insert new user
 $hash = password_hash($password, PASSWORD_DEFAULT);
