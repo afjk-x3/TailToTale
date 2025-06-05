@@ -1460,7 +1460,7 @@ if ($recent_rejection) {
                                 <?php if (!empty($profile_picture)): ?>
                                     <img src="<?php echo htmlspecialchars($profile_picture); ?>" alt="Profile" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
                                 <?php else: ?>
-                                    <img src="/TAILTOTALE/frontend/assets/images/default.png" alt="Profile" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
+                                    <img src="/TAILTOTALE/frontend/assets/images/profile_pics/default.png" alt="Profile" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
                                 <?php endif; ?>
                             </div>
                             <button id="editProfilePicBtn" style="margin-top: 10px; margin-bottom: 10px; padding: 6px 16px; border-radius: 20px; border: 1.5px solid #4CAF50; background: #fff; color: #4CAF50; font-weight: 600; cursor: pointer; transition: background 0.2s, color 0.2s;">Edit Photo</button>
@@ -1542,7 +1542,7 @@ if ($recent_rejection) {
                                 <?php if (!empty($profile_picture)): ?>
                                     <img src="<?php echo htmlspecialchars($profile_picture); ?>" alt="Profile" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
                                 <?php else: ?>
-                                    <img src="/TAILTOTALE/frontend/assets/images/default.png" alt="Profile" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
+                                    <img src="/TAILTOTALE/frontend/assets/images/profile_pics/default.png" alt="Profile" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;">
                                 <?php endif; ?>
                             </div>
                             <button id="editProfilePicBtn" style="margin-top: 10px; margin-bottom: 10px; padding: 6px 16px; border-radius: 20px; border: 1.5px solid #4CAF50; background: #fff; color: #4CAF50; font-weight: 600; cursor: pointer; transition: background 0.2s, color 0.2s;">Edit Photo</button>
@@ -1728,7 +1728,7 @@ if ($recent_rejection) {
         if (data.success && data.profile_picture_url) {
             // Update avatar image if present
             const avatarBox = document.getElementById('userAvatarBox');
-            avatarBox.innerHTML = `<img src="${data.profile_picture_url}" alt="Profile" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;" onerror="this.onerror=null;this.src='/TAILTOTALE/frontend/assets/images/default.png';">`;
+            avatarBox.innerHTML = `<img src="${data.profile_picture_url}" alt="Profile" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover;" onerror="this.onerror=null;this.src='/TAILTOTALE/frontend/assets/images/profile_pics/default.png';">`;
             document.getElementById('profilePicForm').style.display = 'none';
         } else {
             alert('Failed to upload profile picture.');
