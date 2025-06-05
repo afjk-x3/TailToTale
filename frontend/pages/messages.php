@@ -962,8 +962,8 @@ if (isset($_SESSION['user_type']) && $_SESSION['user_type'] === 'rehomer') {
                             conversationItem.dataset.conversationId = conversation.conversationId;
                             conversationItem.innerHTML = `
                                 ${conversation.otherProfilePicture ? 
-                                    `<img src="${conversation.otherProfilePicture}" alt="Avatar" class="conversation-avatar" onerror="this.onerror=null;this.src='/TAILTOTALE/frontend/assets/images/default.png';">` : 
-                                    `<img src="/TAILTOTALE/frontend/assets/images/default.png" alt="Avatar" class="conversation-avatar">`
+                                    `<img src="${conversation.otherProfilePicture}" alt="Avatar" class="conversation-avatar" onerror="this.onerror=null;this.src='/TAILTOTALE/frontend/assets/images/profile_pics/default.png';">` : 
+                                    `<img src="/TAILTOTALE/frontend/assets/images/profile_pics/default.png" alt="Avatar" class="conversation-avatar">`
                                 }
                                 <div class="conversation-info">
                                     <div class="conversation-name">${conversation.otherUsername}</div>
@@ -1056,8 +1056,8 @@ if (isset($_SESSION['user_type']) && $_SESSION['user_type'] === 'rehomer') {
                 <div style="display: flex; align-items: center; width: 100%;">
                     <div style="display: flex; align-items: center;">
                         ${profilePicture ? 
-                            `<img src="${profilePicture}" class="conversation-avatar" alt="${username}" onerror="this.onerror=null;this.src='/TAILTOTALE/frontend/assets/images/default.png';">` : 
-                            `<img src="/TAILTOTALE/frontend/assets/images/default.png" class="conversation-avatar" alt="${username}">`
+                            `<img src="${profilePicture}" class="conversation-avatar" alt="${username}" onerror="this.onerror=null;this.src='/TAILTOTALE/frontend/assets/images/profile_pics/default.png';">` : 
+                            `<img src="/TAILTOTALE/frontend/assets/images/profile_pics/default.png" class="conversation-avatar" alt="${username}">`
                         }
                         <div class="conversation-name" style="margin-left: 8px; font-size: 1.15em;">${username}</div>
                     </div>
